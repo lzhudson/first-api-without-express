@@ -1,5 +1,5 @@
 <p align="left">
-  <img src=".github/docs/node-js-logo.png" width="200"/>
+  <img src=".github/docs/node-js-logo-2.png" width="200"/>
 </p>
 
 # First API Without Express
